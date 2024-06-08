@@ -27,6 +27,8 @@ All the images used in my GitHub is colected from Unplash (https://unsplash.com/
 
 - splunk icon.jpg: https://www.flaticon.com/free-icon/find_11893656?term=splunk&page=1&position=2&origin=search&related_id=11893656
 
+- task_icon.jpg: https://www.flaticon.com/free-icon/project-management_4844342?term=project&page=1&position=11&origin=tag&related_id=4844342
+
 - visual code icon.jpg: https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png
 
 - windows icon.jpg: https://www.flaticon.com/free-icon/windows_888882?term=windows&page=1&position=2&origin=search&related_id=888882
